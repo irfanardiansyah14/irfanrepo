@@ -50,3 +50,4 @@ Mengembalikan kondisi berkas yang ada dimasa lalu, selanjutnya akan digabungkan 
 - Git Merge
 
 Fitur yang terdapat dalam sistem version control Git yang berfungsi untuk menggabungkan perubahan yang terdapat dalam dua atau lebih branch atau cabang repository.
+ 
