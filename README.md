@@ -7,7 +7,7 @@
     			Nama	: Irfan Ardiansyah
     			Nim 	: 17200353
     			Matkul	: WEBPRO II
-    			Jurusan	: Teknologi Inform
+    			Jurusan	: Teknologi Informasi
 
 ## 10 Syntax Git Terpopuler
 
